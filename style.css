@@ -1,0 +1,34 @@
+body{
+font-family: monospace;
+background: rgb(3, 230, 247);
+}
+.header_div
+{
+background: white;
+}
+.header_div p {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: aqua;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button
+{
+font-family: fantasy;
+margin-top: 30px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+.copyright_footer{
+position: fixed;
+color: darkviolet;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: cyan;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 50px turquoise;
+}
